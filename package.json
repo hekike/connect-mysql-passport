@@ -3,7 +3,7 @@
   "name": "connect-mysql-passport",
   "description": "Extends the 'connect-mysql' with some functionality.",
   "readme": "This package extends the https://github.com/nlf/connect-mysql module. \n\n What's plus?\n - add created and user field to the session table \n - can delete expired sessions without SQL event",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/hekike/connect-mysql-passport"
